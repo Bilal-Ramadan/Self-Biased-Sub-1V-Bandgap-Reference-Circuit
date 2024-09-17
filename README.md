@@ -4,7 +4,9 @@ Specs:
 
 Technology --> 65-nm CMOS
 
-Supply voltage --> 2 V
+Supply Voltage --> 2 V
+
+Output Voltage --> 800 mV
 
 Change versus Temperature --> < 1 mV
 
