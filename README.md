@@ -1,4 +1,4 @@
-It's a Self-Biased sub-1V Bandgap reference circuit 
+It's a Power management project 
 
 Specs:
 
