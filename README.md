@@ -2,7 +2,7 @@ It's a Power management project
 
 Specs:
 
-Technology: 65-nm CMOS
+Technology: 65-nm BiCMOS
 
 Supply Voltage: 2 V
 
