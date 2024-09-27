@@ -16,4 +16,4 @@ Current consumption: < 10 uA
 
 Phase margin: > 60°
 
-The Design using Analog designer's toolbox (ADT) and simulations on Cadence virtuoso.
+Designed using gm/id design methodology on Analog designer's toolbox (ADT) and simulations on Cadence virtuoso.
